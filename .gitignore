@@ -1,0 +1,17 @@
+*.sln
+/Library
+/Logs
+/obj
+/Packages
+/ProjectSettings
+*.csproj
+/Assets/_TerrainAutoUpgrade
+/Assets/Animations
+/Assets/AstarPathfindingProject
+/Assets/Monk
+/Assets/Scenes
+/Assets/Sunnyland
+/Assets/Tiles
+/Assets/*.meta
+/Assets/*.physicsMaterial2D
+.vs
